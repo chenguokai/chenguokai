@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I am a senior year undergraduate student in University of Chinese Academy of Sciences.
+
+I am currently working on COOSCA (一生一芯).
+
+During my free time I find it interesting to explore/contribute to some embedded/macOS related open source projects.
+
+Feel free to contect me with chenguokai17ATmailsDOTucasDOTacDOTcn
+
 <!--
 **chenguokai/chenguokai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
