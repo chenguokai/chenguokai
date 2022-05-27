@@ -2,7 +2,7 @@
 
 I am a master student in University of Chinese Academy of Sciences/Institute of Computing Technology, Chinese Academy of Sciences.
 
-Previously working on COOSCA (一生一芯/One chip per student) 2nd Gen. Currently I am working on the frontend (mainly branch predictor related stuffs) of Xiangshan(香山) processor.
+Previously working on COOSCA (一生一芯/One chip per student) 2nd Gen. Currently I am working on the frontend (mainly branch predictor related stuffs) of XiangShan(香山) processor.
 
 During my free time I find it interesting to explore/contribute to some embedded/macOS related open source projects.
 
