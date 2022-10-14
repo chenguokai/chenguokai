@@ -6,10 +6,11 @@ A master student University of Chinese Academy of Sciences/Institute of Computin
 
 ### Projects
 
-0. Summer 2020 RISC-V QEMU support for RT-Thread
+0. [OSPP Summer 2020 RISC-V QEMU support for RT-Thread](https://www.bilibili.com/video/BV19K4y1j7jR)
 1. [COOSCA（一生一芯/One chip per student） 2nd Gen](https://github.com/chenguokai/mb-core)
 2. [Indirect branch predictor of XiangShan（香山） processor](https://github.com/OpenXiangShan/XiangShan/tree/master/src/main/scala/xiangshan/frontend))
 3. [Oracle branch predictor of XiangShan](https://github.com/OpenXiangShan/XiangShan/tree/decoupled-oracle/src/main/scala/xiangshan/frontend) (RISC-V Summit China 2022 [report](https://www.bilibili.com/video/BV1BU4y1z7Xo/))
+4. [OSPP Summer 2022 Kprobe optimization algorithm for RISC architectures] (to be reported on 中国 Linux 内核开发者大会)
 
 
 
