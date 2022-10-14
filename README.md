@@ -7,6 +7,10 @@ I am Chen Guokai(陈国凯).
 0. Bachelor degree, University of Chinese Academy of Sciences (Major: Computer Science)
 1. Master student, University of Chinese Academy of Sciences/Institute of Computing Technology, Chinese Academy of Sciences
 
+### Research Interests
+
+Superscalar processor, Branch Prediction, Custom Instruction Set Extension and Operating System.
+
 ### Projects
 
 0. [OSPP Summer 2020 RISC-V QEMU support for RT-Thread](https://www.bilibili.com/video/BV19K4y1j7jR)
