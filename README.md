@@ -1,8 +1,17 @@
 ### Hi there 👋
 
-I am a master student in University of Chinese Academy of Sciences/Institute of Computing Technology, Chinese Academy of Sciences.
+I am Chen Guokai.
 
-Previously working on COOSCA (一生一芯/One chip per student) 2nd Gen. Currently I am working on the frontend (mainly branch predictor related stuffs) of XiangShan(香山) processor.
+A master student University of Chinese Academy of Sciences/Institute of Computing Technology, Chinese Academy of Sciences.
+
+### Projects
+
+0. Summer 2020 RISC-V QEMU support for RT-Thread
+1. [COOSCA（一生一芯/One chip per student） 2nd Gen](https://github.com/chenguokai/mb-core)
+2. [Indirect branch predictor of XiangShan（香山） processor](https://github.com/OpenXiangShan/XiangShan/tree/master/src/main/scala/xiangshan/frontend))
+3. [Oracle branch predictor of XiangShan](https://github.com/OpenXiangShan/XiangShan/tree/decoupled-oracle/src/main/scala/xiangshan/frontend) (RISC-V Summit China 2022 [report](https://www.bilibili.com/video/BV1BU4y1z7Xo/))
+
+
 
 During my free time I find it interesting to explore/contribute to some embedded/macOS related open source projects.
 
