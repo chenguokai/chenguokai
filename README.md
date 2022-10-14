@@ -1,8 +1,11 @@
 ### Hi there 👋
 
-I am Chen Guokai.
+I am Chen Guokai(陈国凯).
 
-A master student University of Chinese Academy of Sciences/Institute of Computing Technology, Chinese Academy of Sciences.
+### Educations
+
+0. Bachelor degree, University of Chinese Academy of Sciences (Major: Computer Science)
+1. Master student, University of Chinese Academy of Sciences/Institute of Computing Technology, Chinese Academy of Sciences
 
 ### Projects
 
