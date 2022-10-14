@@ -4,7 +4,7 @@ I am Chen Guokai(陈国凯).
 
 ### Educations
 
-0. Bachelor degree, University of Chinese Academy of Sciences (Major: Computer Science)
+0. Bachelor's degree, University of Chinese Academy of Sciences (Major: Computer Science)
 1. Master student, University of Chinese Academy of Sciences/Institute of Computing Technology, Chinese Academy of Sciences
 
 ### Research Interests
@@ -27,7 +27,7 @@ Superscalar processor, Branch Prediction, Custom Instruction Set Extension and O
 
 ### Publications
 
-0. Yinan Xu, ZiHao Yu, Dan Tang, **Guokai Chen**, Lu Chen, Lingrui Gou, Yue Jin, Qianruo Li, Xin Li, Zuojun Li, Jiawei Lin, Tong Liu, Zhigang Liu, Jiazhan Tan, Huaqiang Wang, Huizhe Wang, Kaifan Wang, Chuanqi Zhang, Fawang, Zhang, Linjuan Zhang, Zife Zhang, Yangyang Zhao, Yaoyang Zhou, Yike Zhou, Jiangrui Zou, Ye Cai, Dandan Huan, Zusong Li, Jiye Zhao, Zihao Chen, Wei He, Qiyuan Quan, Xingwu Liu, Sa Wang, Kan Shi, Ninghui Sun, Yungang Bao, Towards Developing High Performance RISC-V Processors Using Agile Methodology. in 55th IEEE/ACM International Symposium on Microarchitecture(MICRO), 2022.
+0. Yinan Xu, ZiHao Yu, Dan Tang, **Guokai Chen**, Lu Chen, Lingrui Gou, Yue Jin, Qianruo Li, Xin Li, Zuojun Li, Jiawei Lin, Tong Liu, Zhigang Liu, Jiazhan Tan, Huaqiang Wang, Huizhe Wang, Kaifan Wang, Chuanqi Zhang, Fawang Zhang, Linjuan Zhang, Zife Zhang, Yangyang Zhao, Yaoyang Zhou, Yike Zhou, Jiangrui Zou, Ye Cai, Dandan Huan, Zusong Li, Jiye Zhao, Zihao Chen, Wei He, Qiyuan Quan, Xingwu Liu, Sa Wang, Kan Shi, Ninghui Sun, Yungang Bao, Towards Developing High Performance RISC-V Processors Using Agile Methodology. in 55th IEEE/ACM International Symposium on Microarchitecture(MICRO), 2022.
 
 During my free time I find it interesting to explore/contribute to some embedded/macOS related open source projects.
 
