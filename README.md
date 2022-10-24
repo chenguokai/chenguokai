@@ -4,8 +4,9 @@ I am Chen Guokai(陈国凯).
 
 ### Educations
 
-0. Bachelor's degree, University of Chinese Academy of Sciences (Major: Computer Science)
-1. Master student, University of Chinese Academy of Sciences/Institute of Computing Technology, Chinese Academy of Sciences
+0. Bachelor's degree, University of Chinese Academy of Sciences (Major: Computer Science), 2017.9 - 2021.7
+1. Visiting student, University of California, Berkeley, 2020.8 - 2020.12
+2. Master student, University of Chinese Academy of Sciences/Institute of Computing Technology, Chinese Academy of Sciences, 2021.9 - 
 
 ### Research Interests
 
