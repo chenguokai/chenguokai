@@ -26,6 +26,7 @@ Superscalar processor, Branch Prediction, Custom Instruction Set Extension and O
 0. OSPP 2020 Outstanding student
 1. 4th Loongson Cup second prize (Team: 0X80000180)
 2. OSPP 2022 Outstanding student
+4. Lenovo master student scholarship (所级奖学金-联想奖)
 
 ### Publications
 
