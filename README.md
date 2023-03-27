@@ -32,6 +32,10 @@ Superscalar processor, Branch Prediction, Custom Instruction Set Extension and O
 
 0. Yinan Xu, ZiHao Yu, Dan Tang, **Guokai Chen**, Lu Chen, Lingrui Gou, Yue Jin, Qianruo Li, Xin Li, Zuojun Li, Jiawei Lin, Tong Liu, Zhigang Liu, Jiazhan Tan, Huaqiang Wang, Huizhe Wang, Kaifan Wang, Chuanqi Zhang, Fawang Zhang, Linjuan Zhang, Zife Zhang, Yangyang Zhao, Yaoyang Zhou, Yike Zhou, Jiangrui Zou, Ye Cai, Dandan Huan, Zusong Li, Jiye Zhao, Zihao Chen, Wei He, Qiyuan Quan, Xingwu Liu, Sa Wang, Kan Shi, Ninghui Sun, Yungang Bao, Towards Developing High Performance RISC-V Processors Using Agile Methodology. in 55th IEEE/ACM International Symposium on Microarchitecture(MICRO), 2022.
 
+### Patents
+
+0. CN115629917B, 一种数据恢复方法、装置、电子设备及可读存储介质, Guokai Chen and Huaqiang Wang.
+
 During my free time I find it interesting to explore/contribute to some embedded/macOS related open source projects.
 
 Feel free to contact me with chenguokai17ATmailsDOTucasDOTacDOTcn
