@@ -34,7 +34,7 @@ Superscalar processor, Branch Prediction, Custom Instruction Set Extension and O
 
 ### Patents
 
-0. CN115629917B, 一种数据恢复方法、装置、电子设备及可读存储介质, Guokai Chen and Huaqiang Wang.
+0. CN115629917B, 一种数据恢复方法、装置、电子设备及可读存储介质, **Guokai Chen** and Huaqiang Wang.
 
 During my free time I find it interesting to explore/contribute to some embedded/macOS related open source projects.
 
