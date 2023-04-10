@@ -36,7 +36,11 @@ Superscalar processor, Branch Prediction, Custom Instruction Set Extension and O
 
 0. CN115629917B, 一种数据恢复方法、装置、电子设备及可读存储介质, **Guokai Chen** and Huaqiang Wang.
 
+### Even more
+
 During my free time I find it interesting to explore/contribute to some embedded/macOS related open source projects.
+
+[Boot XNU on BCM2837(RPI 3)](https://github.com/chenguokai/chenguokai/blob/master/writeup_xnu_bcm2837.md)
 
 Feel free to contact me with chenguokai17ATmailsDOTucasDOTacDOTcn
 
