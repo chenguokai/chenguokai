@@ -10,7 +10,7 @@ I am Chen Guokai(陈国凯).
 
 ### Skills
 
-C/CPP, Chisel, Verilog, LaTeX, Assembly, Python
+C/CPP, Chisel, Verilog, LaTeX, Assembly, Python and others
 
 ### Language
 
