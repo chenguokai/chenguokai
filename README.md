@@ -8,6 +8,14 @@ I am Chen Guokai(陈国凯).
 1. Visiting student, University of California, Berkeley, 2020.8 - 2020.12
 2. Master student, University of Chinese Academy of Sciences/Institute of Computing Technology, Chinese Academy of Sciences, 2021.9 - 
 
+### Skills
+
+C/CPP, Chisel, Verilog, LaTeX, Assembly
+
+### Language
+
+Chinese, English and Esperanto
+
 ### Research Interests
 
 Superscalar processor, Branch Prediction, Custom Instruction Set Extension and Operating System.
