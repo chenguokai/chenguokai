@@ -11,7 +11,7 @@ The hardware requirements are one MS Dev Kit with stock Windows and a usb key. Y
 There are mainly three steps:
 1. compile the kernel
 2. configure the rootfs
-3. boot and enjoy
+3. flash, boot and enjoy
 
 ### Compile the kernel
 
@@ -48,3 +48,42 @@ Finally, except for the kernel image, you will need kernel modules. You can inst
 
 You will find your kernel modules in `/lib/modules/6.3.0+`, you will need to put them in the incoming rootfs.
 
+### Rootfs preparation
+
+In theory, you can use prebuilt raspberry pi ubuntu rootfs image but in my experience, it contains garbage configurations that breaks my experience. Assume that you have an empty rootfs image in ext4 file system (you can always use dd to create one and mkfs to assign a filesystem to it), you can mount it to any place and make a debootstrap on it.
+```
+sudo debootstrap --arch arm64 focal /mnt http://ports.ubuntu.com/ubuntu-ports # assume you mount rootfs to /mnt and use ubuntu focal
+                                                                              # you may replace the final link with your local mirror site
+```
+You may want to chroot into the new system to setup your root password:
+
+```
+sudo chroot /mnt
+passwd root
+# you may also install some softwares in this stage
+exit # exit the chroot environment
+sudo cp -r /lib/modules/6.3.0+ /mnt/lib/modules/6.3.0+ # copy kernel modules to rootfs
+sudo update-initramfs -c -k 6.3.0+ # you may need to move your kernel config to a proper name in /boot before it works, this step can also be done in WSL
+```
+
+After setup, copy the newly generated initrd file in `/boot` (either in WSL2 `/` or `/mnt`) to Windows disk and umount the rootfs and you have got a working ubuntu rootfs.
+
+### Flash, boot and enjoy
+
+You need to move the rootfs image to your Windows disk and flash it to an empty partition. New partitions may be created with Windows's disk manager. You can use winhex to flash the rootfs image to your newly created disk partition. Please always double check you are flashing to the **right partition**.
+
+After your rootfs flashed, you should put your kernel and devicetree file in any place you can find easily. You will need to manually boot the kernel at least the first few times.
+
+As we are lacking ways to install grub to Dev Kit's internal disk now, I would recommend you to create a ubuntu 23.04 (22.04 will NOT work) installation disk with an usb key. You can boot from the usb key and use the grub there to boot the kernel.
+
+When you are greeted by the grub interface, press `c` to enter grub commandline. You will need to type the following command to boot.
+
+```
+linux PATH_TO_YOUR_KERNEL_IMAGE clk_ignore_unused efi=novamap earlycon=efifb iommu.strict=0 pd_ignore_unused mitigations=off root=/dev/nvme0n1pX 
+# where X is your real rootfs partition number
+devicetree PATH_TO_YOUR_DEVICETREE
+initrd YOUR_INITRD_FILE
+boot
+```
+
+You should see ubuntu booting now.
