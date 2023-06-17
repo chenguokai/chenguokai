@@ -87,3 +87,8 @@ boot
 ```
 
 You should see ubuntu booting now.
+
+## Appendix
+
+After you have finished this tutorial, not all devices will work as expected, for example the WiFi. However in the problematic RPI rootfs, WiFi works. I suppose that it is mainly because debootstrap will not install `linux-firmware` by default. Currently I have only remote ssh access to Dev Kit and cannot verify myself. You may try it on your own.
+Also you may install grub to Dev Kit's internal disk and drop the usb key requirement in the following boots. I have not had time to do it myself as well.
