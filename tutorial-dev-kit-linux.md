@@ -58,11 +58,11 @@ sudo debootstrap --arch arm64 focal /mnt http://ports.ubuntu.com/ubuntu-ports # 
 You may want to chroot into the new system to setup your root password:
 
 ```
+sudo cp -r /lib/modules/6.3.0+ /mnt/lib/modules/6.3.0+ # copy kernel modules to rootfs
 sudo chroot /mnt
 passwd root
 # you may also install some softwares in this stage
 exit # exit the chroot environment
-sudo cp -r /lib/modules/6.3.0+ /mnt/lib/modules/6.3.0+ # copy kernel modules to rootfs
 sudo update-initramfs -c -k 6.3.0+ # you may need to move your kernel config to a proper name in /boot before it works, this step can also be done in WSL
 ```
 
