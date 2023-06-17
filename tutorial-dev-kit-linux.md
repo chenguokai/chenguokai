@@ -70,7 +70,7 @@ After setup, copy the newly generated initrd file in `/boot` (either in WSL2 `/`
 
 ### Flash, boot and enjoy
 
-You need to move the rootfs image to your Windows disk and flash it to an empty partition. New partitions may be created with Windows's disk manager. You can use winhex to flash the rootfs image to your newly created disk partition. Please always double check you are flashing to the **right partition**.
+You need to move the rootfs image to your Windows disk and flash it to an empty partition. New partitions may be created with Windows's disk manager. You can use winhex(thanks @huxuan0307) to flash the rootfs image to your newly created disk partition. Please always double check you are flashing to the **right partition**.
 
 After your rootfs flashed, you should put your kernel and devicetree file in any place you can find easily. You will need to manually boot the kernel at least the first few times.
 
