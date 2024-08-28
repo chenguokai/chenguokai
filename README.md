@@ -18,7 +18,7 @@ During my free time I find it interesting to explore/contribute to some embedded
 
 [Boot XNU on BCM2837(RPI 3)](https://github.com/chenguokai/chenguokai/blob/master/writeup_xnu_bcm2837.md)
 
-Feel free to contact me with chenguokai17ATmailsDOTucasDOTacDOTcn
+Feel free to contact me with guokaiDOTchenATepflDOTch
 
 <!--
 **chenguokai/chenguokai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
