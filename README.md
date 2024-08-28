@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Chen Guokai(陈国凯), a final year master student at Institute of Computing Technology, Chinese Academy of Sciences.
+I am Chen Guokai(陈国凯), a PhD student at EPFL, Switzerland.
 
 ### Research Interests
 
